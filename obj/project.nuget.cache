@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "neMvzS3kzeT8xJicEhlfVjEqulT619NHrDBDPpq2jPAgI/5qlTQnY4zi0PojmFPPz7mBwei1KjjGcSQgVwyz3A==",
+  "dgSpecHash": "dRHmFnKmFZErPrZC1A65q2i/L5O6HGOyeXvD1Y6U1TNaxgv8+S87IBBFdON5LQy85zmWVbbEWtYLHYiHJHa5OA==",
   "success": true,
   "projectFilePath": "/media/ahmed/New Volume/Projects/dotnet/API/dotnet.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/home/ahmed/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/home/ahmed/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "/home/ahmed/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.8/microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",
+    "/home/ahmed/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.8/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.8.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.aspnetcore.razor.language/5.0.0/microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.aspnetcore.razor.runtime/2.2.0/microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
@@ -61,7 +63,8 @@
     "/home/ahmed/.nuget/packages/microsoft.visualstudio.web.codegenerators.mvc/5.0.2/microsoft.visualstudio.web.codegenerators.mvc.5.0.2.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/home/ahmed/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/home/ahmed/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/home/ahmed/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/ahmed/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/home/ahmed/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
     "/home/ahmed/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/home/ahmed/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
